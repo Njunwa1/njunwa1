@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Human Resource Management System
+- 🌱 I’m currently learning Laravel
+- 👯 I’m looking to collaborate on Health Information Systems Projects 
+- 💬 Ask me about Flask and Python
+- 📫 How to reach me: njunwa@outlook.com
