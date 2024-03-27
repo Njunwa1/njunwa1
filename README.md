@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on e-Commerce Website
 - 🌱 I’m currently learning Tensorflow for Machine Learning
 - 👯 I’m looking to collaborate on Health Information Systems Projects 
-- 💬 Ask me about Laravel, Django and Flask Frameworks
+- 💬 Ask me about Golang, Laravel, Django and Flask Frameworks
 - 📫 How to reach me: njunwa@outlook.com
